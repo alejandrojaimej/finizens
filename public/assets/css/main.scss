@@ -1,0 +1,28 @@
+i{
+    &.red{
+        color:#f15b5b;
+    }
+    &.green{
+        color:#7ec76d;
+    }
+    &.contact{
+        font-size: 40px;
+        color: #666;
+    }
+}
+
+table{
+    &.contacto{
+        margin-right: 30px;
+    }
+    tr{
+        td{
+            &.comunications{
+                padding-bottom: 40px;
+                th{
+                    text-align: left;
+                }
+            }
+        }
+    }
+}

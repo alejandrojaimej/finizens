@@ -1,0 +1,25 @@
+i.red {
+  color: #f15b5b;
+}
+
+i.green {
+  color: #7ec76d;
+}
+
+i.contact {
+  font-size: 40px;
+  color: #666;
+}
+
+table.contacto {
+  margin-right: 30px;
+}
+
+table tr td.comunications {
+  padding-bottom: 40px;
+}
+
+table tr td.comunications th {
+  text-align: left;
+}
+/*# sourceMappingURL=main.css.map */

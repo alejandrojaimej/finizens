@@ -43,7 +43,6 @@
                             </tr>
                         {% endfor %}
                     {% endif %}
-
                     {% if contact.mensajes is defined and contact.mensajes is not empty %}
                         <tr><th colspan="2" style="text-align:left;">Mensajes</th><th>Fecha</th><th colspan="2">Hora</th></tr>
                         {% for mensaje in contact.mensajes %}

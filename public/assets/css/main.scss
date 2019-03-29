@@ -11,6 +11,10 @@ i{
     }
 }
 table{
+    &.main{
+        position: relative;
+        margin: 0 auto;
+    }
     &.contacto{
         margin-right: 30px;
     }

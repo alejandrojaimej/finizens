@@ -11,6 +11,11 @@ i.contact {
   color: #666;
 }
 
+table.main {
+  position: relative;
+  margin: 0 auto;
+}
+
 table.contacto {
   margin-right: 30px;
 }
